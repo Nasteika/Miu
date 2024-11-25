@@ -1,0 +1,93 @@
+.menu {
+    background-color: black;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+
+.title {
+    background-image: url(https://starwalk.space/gallery/images/what-is-space/1920x1080.jpg);
+    background-size: cover;
+    border-radius: 10px;
+
+}
+
+.txt {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.boks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+.game {
+    background-image: url(https://media.istockphoto.com/id/498478219/ru/фото/звезды-ночью-небо.jpg?s=612x612&w=0&k=20&c=uGe4fN1u8CoXI0WDc4r23kWIciVnk3c3KP6F4snDgSU=);
+    text-color: white;
+    border-radius: 10px;
+    min-width: 300px;
+    margin: 5px;
+    width: 48%;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+button {
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+    padding: 7px 10px;
+}
+
+body {
+    background-color: #322b8f;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    text-decoration: none
+}
+.bub {
+    color: #322b8f;
+}
+
+.bub:hover {
+    color: white;
+}
+
+button:hover {
+    background-color: #6b61ed;
+}
+
+.bam {
+    margin: 0 0 30px 20px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+ html {
+    scroll-behavior: smooth;
+}
